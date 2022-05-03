@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="com.example.labapprestaurante.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:name="com.example.labapprestaurante.ui.gallery.RestaurantesFragment"
+        android:label="@string/menu_restaurantes"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_slideshow"
         android:name="com.example.labapprestaurante.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="@string/menu_registro"
         tools:layout="@layout/fragment_slideshow" />
 </navigation>
