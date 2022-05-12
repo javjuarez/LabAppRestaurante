@@ -8,12 +8,16 @@
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/drawable/side_nav_bar.xml" value="0.3635" />
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/activity_restaurante.xml" value="0.36666666666666664" />
+        <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/activity_restaurante_detail.xml" value="0.36666666666666664" />
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/content_main.xml" value="0.35597826086956524" />
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/fragment_gallery.xml" value="0.36666666666666664" />
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/item_recycler_detalle_restaurante_fotos.xml" value="0.36666666666666664" />
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/item_recycler_restaurante.xml" value="0.36666666666666664" />
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/layout/recycler_item_restaurante.xml" value="0.36666666666666664" />
         <entry key="..\:/Dell SSD/Users/sonic/AndroidStudioProjects/LabAppRestaurante/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
       </map>
     </option>

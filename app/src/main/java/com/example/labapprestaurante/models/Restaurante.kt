@@ -10,5 +10,5 @@ data class Restaurante(
     @SerializedName("reseña") val resenia: String,
     val calificacion: Number,
     val fundacion: Number,
-    val costoPromedio: Number
+    @SerializedName("costopromedio") val costoPromedio: Number
 )

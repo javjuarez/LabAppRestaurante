@@ -1,6 +1,5 @@
 package com.example.labapprestaurante.adapters
 
-import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
@@ -23,7 +22,7 @@ class RestauranteAdapter(private val restaurantes: List<Restaurante>, val clickL
         holder.bind(restaurantes[position])
 
         holder.itemView.setOnClickListener {
-            clickListener(restaurantes[0])
+            clickListener(restaurantes[position])
         }
     }
 

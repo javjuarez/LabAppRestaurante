@@ -12,4 +12,7 @@ interface APIService {
 
     @GET
     suspend fun getRestaurantes(@Url url: String): Response<RestauranteResponse>
+
+    @GET
+    suspend fun getRestauranteDetalle(@Url url: String): Response<RestauranteResponse>
 }

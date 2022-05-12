@@ -16,5 +16,9 @@ class APIResponses {
         suspend fun getRestaurantesResponse(): Response<RestauranteResponse> {
             return retrofit.create(APIService::class.java).getRestaurantes("restaurantes")
         }
+
+        suspend fun getRestauranteDetailResponse(id: Int): Response<RestauranteResponse> {
+            return retrofit.create(APIService::class.java).getRestauranteDetalle("restaurantes/$id")
+        }
     }
 }
